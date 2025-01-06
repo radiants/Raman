@@ -1,3 +1,7 @@
+% Hydrogen Bond Decoupling for Raman Spectroscopy (HBDRS)
+% Smothing with Wavelet method and Baseline Correction with Quadratic Polynomial Fitting
+% Promoted by Xian-ze MENG, Fa-He Cao*, 28 Dec 2024, Sun Yat-sen University
+
 clear
 close all
 global SpectraType
